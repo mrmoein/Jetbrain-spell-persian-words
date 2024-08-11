@@ -1,3 +1,12 @@
+# دیکشنری بررسی املای فارسی برای IDEهای JetBrains
+
+این مخزن شامل یک فایل کامل از لغات فارسی برای استفاده در بررسی املای نرم‌افزارهای IDE شرکت JetBrains، مانند IntelliJ IDEA، PyCharm، WebStorm و دیگر محصولات مشابه است. با استفاده از این دیکشنری، تجربه توسعه‌دهی شما بهبود می‌یابد و نرم‌افزار IDE می‌تواند لغات فارسی را تشخیص داده و آن‌ها را به عنوان اشتباه املایی نمایش ندهد.
+
+## توضیحات کلی
+
+فایل ارائه‌شده به نام `fa_IR.txt` شامل لیستی از لغات فارسی است که به‌صورت سفارشی برای استفاده در نرم‌افزارهای IDE شرکت JetBrains آماده شده است. با افزودن این فایل به IDE خود، نرم‌افزار قادر به تشخیص لغات فارسی خواهد بود.
+
+
 # Persian Spell Check Dictionary for JetBrains IDEs
 
 This repository provides a comprehensive list of Persian (Farsi) words for spell checking in JetBrains IDEs, such as IntelliJ IDEA, PyCharm, WebStorm, and others. Using this dictionary will enhance your development experience by ensuring accurate spell-checking for Persian language content.
