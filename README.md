@@ -4,7 +4,7 @@
 
 ## توضیحات کلی
 
-فایل ارائه‌شده به نام `fa_IR.txt` شامل لیستی از لغات فارسی است که به‌صورت سفارشی برای استفاده در نرم‌افزارهای IDE شرکت JetBrains آماده شده است. با افزودن این فایل به IDE خود، نرم‌افزار قادر به تشخیص لغات فارسی خواهد بود.
+فایل ارائه‌شده به نام `fa_IR.dic` شامل لیستی از لغات فارسی است که به‌صورت سفارشی برای استفاده در نرم‌افزارهای IDE شرکت JetBrains آماده شده است. با افزودن این فایل به IDE خود، نرم‌افزار قادر به تشخیص لغات فارسی خواهد بود.
 
 
 # Persian Spell Check Dictionary for JetBrains IDEs
@@ -13,14 +13,14 @@ This repository provides a comprehensive list of Persian (Farsi) words for spell
 
 ## Overview
 
-The provided file, `fa_IR.txt`, contains a list of Persian words formatted for use as a custom spell-check dictionary in JetBrains IDEs. Adding this file to your IDE will allow it to recognize Persian words and avoid flagging them as spelling errors.
+The provided file, `fa_IR.dic`, contains a list of Persian words formatted for use as a custom spell-check dictionary in JetBrains IDEs. Adding this file to your IDE will allow it to recognize Persian words and avoid flagging them as spelling errors.
 
 ## How to Use
 
 Follow these steps to integrate the Persian spell check dictionary into your JetBrains IDE:
 
 1. **Download the Dictionary File**
-   - Download the `fa_IR.txt` file from this repository.
+   - Download the `fa_IR.dic` file from this repository.
 
 2. **Open Your JetBrains IDE**
    - Launch the JetBrains IDE you wish to configure.
